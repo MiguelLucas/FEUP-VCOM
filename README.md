@@ -1,2 +1,2 @@
 # FEUP-VCOM
-FEUP - VCOM- Computer Vision exercices and projects
+FEUP - VCOM- Computer Vision exercises and projects
