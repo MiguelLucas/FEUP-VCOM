@@ -3,6 +3,7 @@
 This project was developed using the following tools
 
 * PyCharm
+* OpenCV
 * Keras
 * RetinaNet
 * Google Colab (with GPU, for training the model)
