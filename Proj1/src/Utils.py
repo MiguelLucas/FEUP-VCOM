@@ -1,2 +1,0 @@
-SPACE_KEY = 32
-ESC_KEY = 27
